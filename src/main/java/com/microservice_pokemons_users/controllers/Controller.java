@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping(value = "/pokemons_users_microservice")
+@RequestMapping(value = "/")
 public class Controller {
 
     @Autowired
